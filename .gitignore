@@ -1,0 +1,34 @@
+# Compiled binaries
+*.dll
+*.exe
+*.pdb
+*.ilk
+*.lib
+*.so
+*.dylib
+*.a
+*.app
+
+# Generated files
+*.moc
+*.obj
+*.pro.user
+*.qbs.user
+*.qmlc
+*.qmlproject.user
+*.qrc.cxx
+*.rcc
+*.ts
+
+# Temporary files
+*.swp
+*.swo
+.qmake.stash
+.qmake.cache
+*.qch
+
+# Directories
+/build/
+/debug/
+/release/
+/generated/
